@@ -35,7 +35,7 @@
 }
 .sitenav-link{
     color: #0e0e0e;
-    font-style: 18px;
+    font-size: 18px;
     padding: 5px;
     transition: .3s ease color,
     .3s ease background-color,
